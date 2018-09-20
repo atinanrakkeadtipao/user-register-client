@@ -1,0 +1,29 @@
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+● src
++---● app
+|   +--● user
+|   |  |--user.component.ts|.html|.css
+|   |  +--● sign-up
+|   |  |  |--sign-up.component.ts|.html|.css
+|   |
+|   |--● shared
+|   |  |--user.service.ts
+|   |  |--user.model.ts
+|   |
+|   |--app.module.ts
+|   |--routes.ts
+|
+|--index.html
